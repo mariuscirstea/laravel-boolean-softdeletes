@@ -15,7 +15,7 @@
         "role": "CTO"
     }],
     "require": {
-        "illuminate/support": "~6.1",
+        "illuminate/support": "~7.0",
         "php": "~5.6|~7.0"
     },
     "require-dev": {
